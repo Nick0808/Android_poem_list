@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">POEM LIST</string>
+    <string name="poem1_title">별 헤는 밤</string>
+    <string name="poem1_author">윤동주</string>
+    <string name="poem1_body">
+        계절이 지나가는 하늘에는\n
+        가을로 가득 차 있습니다\n
+        나는 아무 걱정도 없이\n
+        가을 속의 별들을 다 헬 듯 합니다.
+    </string>
+
+    <string name="poem2_title">진달래 꽃</string>
+    <string name="poem2_author">김소월</string>
+    <string name="poem2_body">
+        나 보기가 역겨워\n
+        가실 때에는\n
+        말없이 고이 보내 드리오리다.\n
+    </string>
+
+    <string name="poem3_title">님의 침묵</string>
+    <string name="poem3_author">한용운</string>
+    <string name="poem3_body">
+        님은 갔습니다\n
+        아아 사랑하는 나의 님은 갔습니다\n
+        푸른 산빛을 깨치고, 단풍나무 숲을 향하여\n
+        난 작은 길을 걸어서 차마 떨치고 갔습니다.
+
+    </string>
+</resources>
